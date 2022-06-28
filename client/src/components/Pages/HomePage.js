@@ -75,13 +75,13 @@ const HomePage = () => {
                   style={{
                     color: "red",
                   }}
-                  href="https://github.com/smfils1/youtube-clone"
+                  href="https://github.com/jatinsharma9871"
                 >
                   GitHub Repo
                 </a>
               </Typography>
               <Typography variant="body2">
-                * for Educational Purposes
+                * for Interview Purposes
               </Typography>
             </ThemeProvider>
           </div>

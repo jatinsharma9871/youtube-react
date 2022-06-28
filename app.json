@@ -2,7 +2,7 @@
   "name": "YouTube Clone",
   "description": "MERN stack YouTube Clone",
   "logo": "https://avatars0.githubusercontent.com/u/29187338?s=60&v=4",
-  "repository": "https://github.com/smfils1/youtube-clone",
+  "repository": "https://github.com/jatinsharma9871",
   "buildpacks": [
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
